@@ -12,6 +12,10 @@ library.
 > (FIPS 203/204/205, finalized 2024) are the mitigation. This server makes them
 > a drop-in tool for any MCP-capable agent.
 
+> 🔎 **Companion:** [`pqc-scan`](https://github.com/Chino1913455/pqc-scan) finds the
+> quantum-vulnerable crypto in your codebase and flags harvest-now-decrypt-later
+> risk. Use it to discover *what* to migrate — then use this server to *do* it.
+
 ## What's inside (and what isn't)
 
 Every exposed tool is backed by a real, standards-compliant implementation —
