@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+keys
+*.log
+.git
+.github
+**/*.test.ts

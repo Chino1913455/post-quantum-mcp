@@ -1,0 +1,8 @@
+# Normalize line endings across platforms
+* text=auto eol=lf
+
+# Treat binaries as binary
+*.wasm binary
+*.png binary
+*.jpg binary
+*.ico binary
